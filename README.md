@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/youssefabidi13">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssefabidi13&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssefabidi13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/mouadzaidi10">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mouadzaidi10&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mouadzaidi10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefabidi13&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="YoussefABIDI" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadzaidi10&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="YoussefABIDI" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
