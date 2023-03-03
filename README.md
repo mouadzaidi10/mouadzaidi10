@@ -1,81 +1,19 @@
-### Hi there 👋
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm ZAIDI MOUAD</h1>
+<h3 align="center">A passionate backend developer from Morocco</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!--
-**mouadzaidi10/mouadzaidi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouad1mo&label=Profile%20views&color=0e75b6&style=flat" alt="mouad1mo" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Spring Boot**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm ZAIDI MOUAD</h2>
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science  at ENSA Tetouan.\
-🌱 &nbsp;I'm on track for learning more about Spring boot, Angular, and Microservices.\
-✍️ &nbsp;In my free time, I enjoy being physically active, and spend a lot of time playing sports and team games.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at **youssef.abidi@etu.uae.ac.ma** or **youssefabidi929@gmail.com** I'll try to respond as soon as I can.
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
-
-<!-- <img alt="Night Coding" src="https://cdn.discordapp.com/attachments/1056944593171660842/1068257407165272127/Black_and_White_Animated_Personal_Name_Initials_Logo.gif" align="right"/> -->
-
-### 🛠 &nbsp;Tech Stack
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=FFFFFF)&nbsp;
-![Cisco](https://img.shields.io/badge/-Cisco-000000?style=flat&logo=Cisco&logoColor=FFFFFF)\
-![AngularJS](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=red)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=FFFFFF)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse-ide&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=red)  
-<!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
-<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
-<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
-
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/mouadzaidi10">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mouadzaidi10&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mouadzaidi10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadzaidi10&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="YoussefABIDI" />
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="center">
-<!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/abidi-youssef-98a9b2217/"><img src="https://img.shields.io/badge/-Youssef%20ABIDI-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:youssef.abidi@etu.uae.ac.ma"><img src="https://img.shields.io/badge/-youssef.abidi@etu.uae.ac.ma-E4405F?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/youssef___abidi/"><img src="https://img.shields.io/badge/-@ABIDI%20Youssef-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100088518896125"><img src="https://img.shields.io/badge/-@ABIDI%20Youssef-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad1mo&show_icons=true&locale=en&layout=compact" alt="mouad1mo" /></p>
 
------
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouad1mo&show_icons=true&locale=en" alt="mouad1mo" /></p>
