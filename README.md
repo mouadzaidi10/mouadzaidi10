@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966)](https://rishavchanda.io)
+![MOUAD ZAIDI Banner](https://user-images.githubusercontent.com/110742893/222803701-f7eee391-b192-49b8-9944-35a1e913b9c0.jpg)
 <h1 align="center">Hi 👋, I'm ZAIDI MOUAD</h1>
 <h3 align="center">A passionate backend developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
